@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Client\Confirm_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Info_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Info_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Info_Client_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Add_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Info_Dentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Update_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Update_Info_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Update_Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Dentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login-Logout\Appointment_NoAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login-Logout\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login-Logout\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Client\Confirm_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Info_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Info_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Info_Client_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Add_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Info_Dentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Info_Dentist_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Update_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Update_Info_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist\Update_Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Dentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage\Homepage_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login-Logout\Appointment_NoAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login-Logout\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login-Logout\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicine\AddMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicine\MedList_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicine\UpdateMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\AppointmentInfo_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\Appointment_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\Info_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\Med_List_Seen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\PatientRecord_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\AccountAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\AddDentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\UpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\UpdateDentist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\UpdateStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\UserList_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Admin\Book_Success.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Admin\Canceled_Success.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Admin\Failed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Admin\Lock_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Admin\Login_Failed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Admin\Update_Success.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Warming_Client\No_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

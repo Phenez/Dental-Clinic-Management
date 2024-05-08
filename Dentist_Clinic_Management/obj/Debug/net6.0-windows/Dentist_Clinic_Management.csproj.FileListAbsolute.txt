@@ -1,0 +1,165 @@
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.AssemblyReference.cache
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Properties.Resources.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.GenerateResource.cache
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.AssemblyInfoInputs.cache
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.AssemblyInfo.cs
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.exe
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.deps.json
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.runtimeconfig.json
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.dll
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.pdb
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.dll
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\refint\Dentist_Clinic_Management.dll
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.pdb
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.genruntimeconfig.cache
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\ref\Dentist_Clinic_Management.dll
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Login.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Register.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Client.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Dentist.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Admin.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Staff.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Appointment.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Client.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Client_Update.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Appointment_NoAccount.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Confirm_Appointment.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.No_Appointment.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Info_Dentist.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Info_Client.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Schedule.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Add_Client.resources
+D:\Tài liệu\Năm 3 - 1\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Client.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.exe
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.deps.json
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.runtimeconfig.json
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.pdb
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Confirm_Appointment.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Appointment.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Client.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Client_Update.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Add_Client.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Info_Dentist.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Client.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Info_Client.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Schedule.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Admin.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Client.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Dentist.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Staff.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Appointment_NoAccount.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Login.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Register.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Properties.Resources.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Client.No_Appointment.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.GenerateResource.cache
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.AssemblyInfoInputs.cache
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.AssemblyInfo.cs
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.CoreCompileInputs.cache
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.sourcelink.json
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\refint\Dentist_Clinic_Management.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.pdb
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.genruntimeconfig.cache
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\ref\Dentist_Clinic_Management.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Medicine.AddMedicine.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Medicine.MedList_Admin.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Medicine.UpdateMedicine.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.AssemblyReference.cache
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.CopyComplete
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UserList_Admin.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AddCustomer.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AddDentist.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AddStaff.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UpdateCustomer.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UpdateDentist.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UpdateStaff.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Book_Success.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Canceled_Success.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Failed.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Lock_Account.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Login_Failed.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Update_Success.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AccountAdmin.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.ChangePassword.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.AssemblyReference.cache
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Confirm_Appointment.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Appointment.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Client.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Client.Info_Client_Update.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Add_Client.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Info_Dentist.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Client.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Info_Client.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Update_Schedule.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Admin.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Client.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Dentist.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.HomePage.Homepage_Staff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Appointment_NoAccount.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Login.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Login_Logout.Register.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Medicine.AddMedicine.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Medicine.MedList_Admin.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Medicine.UpdateMedicine.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Properties.Resources.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.AppointmentInfo_Staff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.Appointment_Staff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.Info_Staff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.PatientRecord_Staff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AccountAdmin.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AddCustomer.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AddDentist.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.AddStaff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.ChangePassword.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UpdateCustomer.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UpdateDentist.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UpdateStaff.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Users.UserList_Admin.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Book_Success.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Canceled_Success.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Failed.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Lock_Account.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Login_Failed.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Admin.Update_Success.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Warming_Client.No_Appointment.resources
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.GenerateResource.cache
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.AssemblyInfoInputs.cache
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.AssemblyInfo.cs
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.CoreCompileInputs.cache
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.sourcelink.json
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\refint\Dentist_Clinic_Management.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.pdb
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.exe
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.deps.json
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.runtimeconfig.json
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\Dentist_Clinic_Management.pdb
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.csproj.CopyComplete
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.genruntimeconfig.cache
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\ref\Dentist_Clinic_Management.dll
+C:\Users\Thu Ha\Source\Repos\KamisatoNoel\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.Med_List_Seen.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Dentist.Info_Dentist_Update.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.AppointmentInfo_Staff.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.Appointment_Staff.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.Info_Staff.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.Med_List_Seen.resources
+D:\Projects\DBMS\Dentist_Clinic_Management\Dentist_Clinic_Management\obj\Debug\net6.0-windows\Dentist_Clinic_Management.Staff.PatientRecord_Staff.resources
